@@ -30,3 +30,14 @@ function findPair(str){
     return str=='' 
 }
 ```
+## Experience
+* Have experience working with microprocessor relays and digital substations; 
+* Have experience developing a social network as an educational project.
+
+## Education 
+ * **Sukhoi State Technical University of Gomel (2017-2022):** Energy engineer;
+ * **Sukhoi State Technical University of Gomel (2022-2023):**Master of Engineering Sciences.
+
+## Languages
+* Russian - Native;
+* Engish - Pre-Intermediate.
