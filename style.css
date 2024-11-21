@@ -1,0 +1,36 @@
+.mainList{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: grid;
+  grid-template-columns: 20vw 1fr;
+  grid-template-areas: 
+  'f s';
+}
+.firstColum{
+    grid-area: f;
+    background-color:aqua;
+    min-height: 100vh;
+    border-radius: 3px;
+    
+}
+.secondColum{
+    grid-area: s;
+    min-height: 100vh;
+}
+.nameSecondColum{
+    text-align: center;
+    padding: 0 10px;
+}
+.photoDiv {
+    padding: 10px 50px;
+}
+.photoDiv img{
+    width: 100%;
+    border-radius: 21px;
+}
+.contacts{
+    padding: 0px 40px;
+}
+.informationPlase{
+    padding: 0 40px;
+}
